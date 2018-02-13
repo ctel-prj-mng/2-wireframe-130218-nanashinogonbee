@@ -17,6 +17,7 @@
 - [draw.io](https://www.draw.io/)
 - [Readymag](https://readymag.com/)
 - [Realtimeboard](https://realtimeboard.com)
+- [Marvelapp](https://marvelapp.com)
 
 Какие себе вопросы задать: 
 - мобильная / браузерная / для десктопа, а может быть вообще для телевизора?
